@@ -1,3 +1,7 @@
+## [1.0.3]
+
+* Add Swift Package Manager support for iOS. The plugin can now be built with both CocoaPods and SPM.
+
 ## [1.0.2]
 
 * Fix LICENSE copyright attribution.
